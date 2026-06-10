@@ -34,4 +34,4 @@ We do not use any analytics SDKs.
 
 CONTACT
 
-[your email]
+oralkali93@gmail.com
